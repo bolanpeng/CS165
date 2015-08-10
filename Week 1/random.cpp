@@ -1,7 +1,7 @@
-/***********************************************
- * This program generates random number based
- * on the range given by the user.
- * ********************************************/
+/*****************************************************************
+ * This program generates random number based on the range given 
+ * by the user.
+ * **************************************************************/
 
 #include <iostream>
 #include <cstdlib>

@@ -1,7 +1,7 @@
-/********************************************************
- * This program takes a Celsius temperature
- * and converts it to Fahrenheit.
- * *****************************************************/  
+/***********************************************************
+ * This program takes a Celsius temperature and converts it 
+ * to Fahrenheit.
+ * ********************************************************/  
 
 #include <iostream>
 

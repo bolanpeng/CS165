@@ -1,8 +1,7 @@
-/*************************************************
- * This program asks user to input the number of
- * tickets sold, and displays the amount of income
- * generated from the sales.
- * **********************************************/
+/**************************************************************
+ * This program asks user to input the number of tickets sold, 
+ * and displays the amount of income generated from the sales.
+ * ***********************************************************/
 
 #include <iostream>
 #include <iomanip>

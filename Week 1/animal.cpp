@@ -1,3 +1,7 @@
+/*****************************************************
+ * This program displays the user's favorite animal.
+ * **************************************************/
+
 #include <iostream>
 #include <string>
 
