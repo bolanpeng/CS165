@@ -14,9 +14,9 @@ class Date{
 		int year;
 	
 	public:
-		Date();						// Constructor
+		Date();								// Constructor
 		Date(int, int, int);
-		void setMonth(int);			// Prototype
+		void setMonth(int);			        // Prototype
 		void setDay(int);
 		void setYear(int);
 		void print1();
